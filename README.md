@@ -95,30 +95,38 @@ I build at the intersection of environmental research and software engineering: 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Kianwillbefine/Water-Quality-Prediction-Model">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kianwillbefine&repo=Water-Quality-Prediction-Model&theme=react&hide_border=true&bg_color=061018&title_color=67E8F9&text_color=C7D2FE&icon_color=2DD4BF" alt="Water Quality Prediction Model repository card" />
-      </a>
+      <h3><a href="https://github.com/Kianwillbefine/Water-Quality-Prediction-Model">Water-Quality-Prediction-Model</a></h3>
       <p><b>Research core:</b> a Python project for deep-learning-based water quality prediction.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-research%20model-0B3D3B?style=flat-square&logo=python&logoColor=white" alt="Python research model badge" />
+        <img src="https://img.shields.io/badge/water%20quality-forecasting-0EA5A4?style=flat-square" alt="Water quality forecasting badge" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Kianwillbefine/Suzhou-RailTransit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kianwillbefine&repo=Suzhou-RailTransit&theme=react&hide_border=true&bg_color=061018&title_color=67E8F9&text_color=C7D2FE&icon_color=2DD4BF" alt="Suzhou RailTransit repository card" />
-      </a>
+      <h3><a href="https://github.com/Kianwillbefine/Suzhou-RailTransit">Suzhou-RailTransit</a></h3>
       <p><b>Interface lab:</b> a Vue project exploring transit-facing information design.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Vue-interface%20system-0B3D3B?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue interface system badge" />
+        <img src="https://img.shields.io/badge/transit-information%20design-0EA5A4?style=flat-square" alt="Transit information design badge" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Kianwillbefine/mini-React">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kianwillbefine&repo=mini-React&theme=react&hide_border=true&bg_color=061018&title_color=67E8F9&text_color=C7D2FE&icon_color=2DD4BF" alt="mini React repository card" />
-      </a>
+      <h3><a href="https://github.com/Kianwillbefine/mini-React">mini-React</a></h3>
       <p><b>Internals lab:</b> a hands-on path into how React-like rendering works.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-renderer%20internals-0B3D3B?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript renderer internals badge" />
+        <img src="https://img.shields.io/badge/react-learning%20by%20building-8B5CF6?style=flat-square" alt="React learning by building badge" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Kianwillbefine/FlowAI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kianwillbefine&repo=FlowAI&theme=react&hide_border=true&bg_color=061018&title_color=67E8F9&text_color=C7D2FE&icon_color=2DD4BF" alt="FlowAI repository card" />
-      </a>
+      <h3><a href="https://github.com/Kianwillbefine/FlowAI">FlowAI</a></h3>
       <p><b>AI workflow:</b> visual orchestration for LLM, RAG, and tool-based applications.</p>
+      <p>
+        <img src="https://img.shields.io/badge/LLM-workflow%20builder-0B3D3B?style=flat-square" alt="LLM workflow builder badge" />
+        <img src="https://img.shields.io/badge/RAG-tools%20and%20skills-8B5CF6?style=flat-square" alt="RAG tools and skills badge" />
+      </p>
     </td>
   </tr>
 </table>
@@ -135,12 +143,29 @@ now   Studying environmental engineering at Nanjing University, writing code eve
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kianwillbefine&show_icons=true&hide_border=true&theme=react&bg_color=061018&title_color=67E8F9&text_color=C7D2FE&icon_color=2DD4BF&include_all_commits=true" alt="GitHub stats for Kianwillbefine" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Kianwillbefine&theme=react&hide_border=true&background=061018&ring=67E8F9&fire=8B5CF6&currStreakLabel=67E8F9" alt="GitHub streak for Kianwillbefine" />
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b>13</b><br />
+      public repositories
+    </td>
+    <td align="center" width="33%">
+      <b>2024</b><br />
+      GitHub start
+    </td>
+    <td align="center" width="33%">
+      <b>now</b><br />
+      research and frontend systems
+    </td>
+  </tr>
+</table>
 
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kianwillbefine&bg_color=061018&color=C7D2FE&line=2DD4BF&point=8B5CF6&area=true&area_color=0EA5A4&hide_border=true&custom_title=Contribution%20current" alt="Contribution activity graph for Kianwillbefine" />
+<a href="https://github.com/Kianwillbefine?tab=repositories">
+  <img src="https://img.shields.io/badge/open-repositories-0EA5A4?style=for-the-badge&logo=github&logoColor=white" alt="Open repositories" />
+</a>
+<a href="https://github.com/Kianwillbefine?tab=overview&from=2026-06-01&to=2026-06-30">
+  <img src="https://img.shields.io/badge/view-contribution%20graph-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub contribution graph" />
+</a>
 
 </div>
 
