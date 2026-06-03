@@ -103,31 +103,12 @@ I build frontend products with a systems mindset: typed components, readable sta
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Kianwillbefine/Suzhou-RailTransit">Suzhou-RailTransit</a></h3>
-      <p><b>Product interface:</b> a Vue project exploring transit-facing information design.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Vue-interface%20system-0B3D3B?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue interface system badge" />
-        <img src="https://img.shields.io/badge/transit-information%20design-0EA5A4?style=flat-square" alt="Transit information design badge" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Kianwillbefine/ZXHrmanageSys">ZXHrmanageSys</a></h3>
-      <p><b>Management system:</b> TypeScript practice for admin workflows and structured screens.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-admin%20system-0B3D3B?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript admin system badge" />
-        <img src="https://img.shields.io/badge/product-workflow%20screens-8B5CF6?style=flat-square" alt="Product workflow screens badge" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h3><a href="https://github.com/Kianwillbefine/FlowAI">FlowAI</a></h3>
       <p><b>AI workflow:</b> visual orchestration for LLM, RAG, and tool-based applications.</p>
       <p>
         <img src="https://img.shields.io/badge/LLM-workflow%20builder-0B3D3B?style=flat-square" alt="LLM workflow builder badge" />
         <img src="https://img.shields.io/badge/RAG-tools%20and%20skills-8B5CF6?style=flat-square" alt="RAG tools and skills badge" />
       </p>
-    </td>
   </tr>
 </table>
 
