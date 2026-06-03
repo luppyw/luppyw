@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:061018,42:0B3D3B,72:0EA5A4,100:8B5CF6&text=Wang%20Zhihao&fontColor=E6FFFB&fontSize=58&fontAlignY=36&desc=Environmental%20Engineering%20%7C%20Deep%20Learning%20%7C%20Frontend%20Systems&descAlignY=58&descSize=16&animation=fadeIn" alt="Wang Zhihao profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:061018,42:0B3D3B,72:0EA5A4,100:8B5CF6&text=Wang%20Zhihao&fontColor=E6FFFB&fontSize=58&fontAlignY=36&desc=Frontend%20Engineer%20%7C%20React%20%7C%20TypeScript%20%7C%20UI%20Systems&descAlignY=58&descSize=16&animation=fadeIn" alt="Wang Zhihao profile banner" />
 
 <a href="https://github.com/Kianwillbefine">
   <img src="https://komarev.com/ghpvc/?username=Kianwillbefine&style=for-the-badge&color=0ea5a4&label=PROFILE+SIGNALS" alt="Profile views" />
 </a>
-<a href="https://www.nju.edu.cn">
-  <img src="https://img.shields.io/badge/Nanjing%20University-Environmental%20Engineering-0B3D3B?style=for-the-badge" alt="Nanjing University Environmental Engineering" />
+<a href="https://github.com/Kianwillbefine?tab=repositories">
+  <img src="https://img.shields.io/badge/Frontend-React%20%2F%20TypeScript-0B3D3B?style=for-the-badge&logo=react&logoColor=white" alt="Frontend React TypeScript badge" />
 </a>
 <a href="https://github.com/Kianwillbefine?tab=repositories">
   <img src="https://img.shields.io/badge/Public%20Repos-13-8B5CF6?style=for-the-badge&logo=github" alt="Public repositories" />
@@ -15,7 +15,7 @@
 <br />
 <br />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=67E8F9&center=true&vCenter=true&width=760&lines=Forecasting+water+quality+with+deep+learning;Building+interfaces+where+data+becomes+actionable;Research+mindset%2C+frontend+hands%2C+systems+curiosity" alt="Typing introduction" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=67E8F9&center=true&vCenter=true&width=760&lines=Building+frontend+interfaces+with+React+and+TypeScript;Turning+product+states+into+clear+user+flows;Studying+framework+internals+by+building+small+systems" alt="Typing introduction" />
 
 </div>
 
@@ -26,32 +26,32 @@
 ```txt
 name        Wang Zhihao
 handle      Kianwillbefine
-identity    Postgraduate in Environmental Engineering at Nanjing University
-focus       Deep learning for water quality prediction
-craft       React, TypeScript, Vue, Python, data-rich product interfaces
-signal      Turn messy environmental data into clear models and clear tools
+identity    Frontend engineer focused on product interfaces
+focus       React, TypeScript, Vue, component architecture, data-rich UI
+craft       Admin systems, dashboards, AI workflow builders, frontend tooling
+signal      Make complex product states feel clear, fast, and maintainable
 ```
 
-I build at the intersection of environmental research and software engineering: models that read water systems, interfaces that make data legible, and small experiments that sharpen how modern web apps work.
+I build frontend products with a systems mindset: typed components, readable state, crisp interactions, and interfaces that stay understandable when the data gets messy.
 
 ---
 
-## `mission.control`
+## `frontend.control`
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Research track</h3>
+      <h3>Product UI</h3>
       <p>
-        Water quality prediction, time-series modeling, model evaluation, and environmental data workflows.
-        The north star: make prediction results easier to trust, compare, and use.
+        Dashboards, admin systems, low-code builders, and information-heavy screens.
+        I care about hierarchy, scanning speed, empty states, and flows that feel predictable.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Engineering track</h3>
+      <h3>Engineering depth</h3>
       <p>
-        Frontend systems, typed React apps, admin tools, low-code AI workflows, and framework internals.
-        The habit: ship interfaces that feel sharp, readable, and useful under real data.
+        React internals, TypeScript boundaries, reusable components, API-shaped UI state,
+        and the small details that make frontend code easier to change.
       </p>
     </td>
   </tr>
@@ -75,8 +75,8 @@ I build at the intersection of environmental research and software engineering: 
     <td>React, TypeScript, Next.js, Vue, Tailwind CSS, Vite</td>
   </tr>
   <tr>
-    <td><b>Research coding</b></td>
-    <td>Python, model experiments, data preprocessing, evaluation notebooks</td>
+    <td><b>UI engineering</b></td>
+    <td>Component architecture, state modeling, responsive layouts, interaction polish</td>
   </tr>
   <tr>
     <td><b>Product instinct</b></td>
@@ -95,16 +95,16 @@ I build at the intersection of environmental research and software engineering: 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Kianwillbefine/Water-Quality-Prediction-Model">Water-Quality-Prediction-Model</a></h3>
-      <p><b>Research core:</b> a Python project for deep-learning-based water quality prediction.</p>
+      <h3><a href="https://github.com/Kianwillbefine/mini-React">mini-React</a></h3>
+      <p><b>Frontend internals:</b> a hands-on path into how React-like rendering works.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-research%20model-0B3D3B?style=flat-square&logo=python&logoColor=white" alt="Python research model badge" />
-        <img src="https://img.shields.io/badge/water%20quality-forecasting-0EA5A4?style=flat-square" alt="Water quality forecasting badge" />
+        <img src="https://img.shields.io/badge/JavaScript-renderer%20internals-0B3D3B?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript renderer internals badge" />
+        <img src="https://img.shields.io/badge/react-learning%20by%20building-8B5CF6?style=flat-square" alt="React learning by building badge" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Kianwillbefine/Suzhou-RailTransit">Suzhou-RailTransit</a></h3>
-      <p><b>Interface lab:</b> a Vue project exploring transit-facing information design.</p>
+      <p><b>Product interface:</b> a Vue project exploring transit-facing information design.</p>
       <p>
         <img src="https://img.shields.io/badge/Vue-interface%20system-0B3D3B?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue interface system badge" />
         <img src="https://img.shields.io/badge/transit-information%20design-0EA5A4?style=flat-square" alt="Transit information design badge" />
@@ -113,11 +113,11 @@ I build at the intersection of environmental research and software engineering: 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Kianwillbefine/mini-React">mini-React</a></h3>
-      <p><b>Internals lab:</b> a hands-on path into how React-like rendering works.</p>
+      <h3><a href="https://github.com/Kianwillbefine/ZXHrmanageSys">ZXHrmanageSys</a></h3>
+      <p><b>Management system:</b> TypeScript practice for admin workflows and structured screens.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-renderer%20internals-0B3D3B?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript renderer internals badge" />
-        <img src="https://img.shields.io/badge/react-learning%20by%20building-8B5CF6?style=flat-square" alt="React learning by building badge" />
+        <img src="https://img.shields.io/badge/TypeScript-admin%20system-0B3D3B?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript admin system badge" />
+        <img src="https://img.shields.io/badge/product-workflow%20screens-8B5CF6?style=flat-square" alt="Product workflow screens badge" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -136,9 +136,9 @@ I build at the intersection of environmental research and software engineering: 
 ## `build.log`
 
 ```txt
-2026  Exploring AI application workflows, tool composition, and research-to-product loops
-2025  Built water quality prediction experiments and several frontend/admin systems
-now   Studying environmental engineering at Nanjing University, writing code every week
+2026  Building AI workflow interfaces, frontend harnesses, and product UI experiments
+2025  Shipped management systems, transit UI, and React internals practice
+now   Sharpening React, TypeScript, Vue, and interface architecture every week
 ```
 
 <div align="center">
@@ -155,7 +155,7 @@ now   Studying environmental engineering at Nanjing University, writing code eve
     </td>
     <td align="center" width="33%">
       <b>now</b><br />
-      research and frontend systems
+      frontend systems
     </td>
   </tr>
 </table>
@@ -176,15 +176,15 @@ now   Studying environmental engineering at Nanjing University, writing code eve
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Modeling</h3>
-      <p>Better pipelines for water quality time-series prediction and model comparison.</p>
+      <h3>Components</h3>
+      <p>Reusable UI blocks with clear props, predictable states, and careful layout behavior.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Interfaces</h3>
-      <p>Data dashboards, admin systems, and tools that make complex states readable.</p>
+      <h3>Product surfaces</h3>
+      <p>Dashboards, management systems, and workflow tools that make complex states readable.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Systems</h3>
+      <h3>Frontend depth</h3>
       <p>React internals, AI workflow builders, and reusable development harnesses.</p>
     </td>
   </tr>
@@ -199,8 +199,8 @@ now   Studying environmental engineering at Nanjing University, writing code eve
 <a href="https://github.com/Kianwillbefine">
   <img src="https://img.shields.io/badge/GitHub-Kianwillbefine-061018?style=for-the-badge&logo=github&logoColor=white" alt="GitHub link" />
 </a>
-<a href="https://www.nju.edu.cn">
-  <img src="https://img.shields.io/badge/NJU-Environmental%20Engineering-0B3D3B?style=for-the-badge" alt="Nanjing University link" />
+<a href="https://github.com/Kianwillbefine?tab=repositories">
+  <img src="https://img.shields.io/badge/Frontend-React%20%2B%20TypeScript-0B3D3B?style=for-the-badge&logo=react&logoColor=white" alt="Frontend React TypeScript link" />
 </a>
 
 <br />
