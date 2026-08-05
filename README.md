@@ -12,30 +12,17 @@ Frontend engineer building **observable agent tools** and **legible interfaces**
 
 ## `./now`
 
-```text
-focus     agent runtime observability
-building  local-first developer tools
-bias      clarity over complexity
-```
-
-## `./selected-work`
-
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| [`probe`](https://github.com/luppyw/probe) | Replays agent runs from local JSONL traces through a timeline, state view, and event inspector. | TypeScript, React, Vite |
-| [`Harden`](https://github.com/luppyw/Harden) | Packages a portable, auditable Codex harness with skills, rules, automations, and install tooling. | Python, Shell |
+`focus` agent runtime observability<br />
+`building` local-first developer tools<br />
+`bias` clarity over complexity
 
 ## `./toolbox`
 
-```text
-interface   React / Vue / TypeScript / Tailwind CSS
-systems     state modeling / design systems / performance
-tooling     Vite / Node.js / Git / agent harnesses
-```
+`interface` React · Vue · TypeScript · Tailwind CSS<br />
+`systems` state modeling · design systems · performance<br />
+`tooling` Vite · Node.js · Git · agent harnesses
 
 <div align="center">
-
-[`repositories`](https://github.com/luppyw?tab=repositories) · [`activity`](https://github.com/luppyw?tab=overview)
 
 <sub>Make state inspectable. Keep interfaces legible.</sub>
 
