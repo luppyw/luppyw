@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 <!-- 顶部极简科技 Wave Banner -->
@@ -36,3 +37,36 @@ core_focus:
   - "AI Workflow Builders & Visual Tooling"
 
 mantra: "Transforming complex state machines into crisp, intuitive user flows."
+
+```
+
+---
+
+### `02 // TECH_TELEMETRY`
+
+| Domain | Tech Architecture & Capabilities |
+| --- | --- |
+| **Core Frontend** | React, TypeScript, Next.js, Vue 3, Tailwind CSS, Vite |
+| **UI Systems** | Component Architecture, State Modeling, Design Systems, UX Polish |
+| **Product Engineering** | Admin Dashboards, Low-Code Builders, Visual Workflows, DevTools |
+| **Exploring** | AI Workflow Orchestration, RAG / Agent Tooling, Framework Internals |
+
+---
+
+### `03 // FEATURED_LABS`
+
+---
+
+### `04 // EXECUTION_LOG`
+
+```shell
+$ git log --oneline --graph --all
+* 2026.x  [FEAT] Engineering AI workflow orchestrators & robust frontend harnesses
+* 2025.x  [SHIP] Delivered enterprise management systems & transit UI architecture
+* 2024.x  [INIT] Started GitHub journey; deep-diving into React internals & CS fundamentals
+
+```
+
+---
+
+### `05 // ESTABLISH_LINK`
